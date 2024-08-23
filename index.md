@@ -1,4 +1,4 @@
-#Chatanya's First CS193 Homework
+# Chatanya's First CS193 Homework
 
 Some things I love about CS193 are:
 - Learning about computer science tools
